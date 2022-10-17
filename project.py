@@ -115,7 +115,7 @@ def main():
         print("Bot: " + movie)
         print("Bot: Hope you'll like the movie! Bye!")
     else:
-        print("Bot: Ok, that's all I have for you today. See you then!")
+        print("Bot: Ok, that's all I have for you today. See you!")
 
         
         
