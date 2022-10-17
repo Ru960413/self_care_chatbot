@@ -101,6 +101,8 @@ excited = [
 ]
 
 # add movies from csv
+# movie source:
+# https://www.imdb.com/list/ls021644352/
 movies = []
 
 with open("movies.csv") as file:
