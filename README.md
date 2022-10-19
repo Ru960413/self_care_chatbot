@@ -1,6 +1,6 @@
 # Self care chatbot
 
-#### Video Demo: <URL HERE>
+#### Video Demo: <https://youtu.be/kfDNm_bembs>
 
 #### Usage:
 Download the repository and open it up in your terminal. If you already have Python installed in your computer, cd into the folder and then type "python3 project.py" to run the project. If not, download Python via visiting <https://www.python.org/downloads/>
