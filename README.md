@@ -1,11 +1,15 @@
 # Self care chatbot
 
+![Demo photo](demo.png)
+
 #### Video Demo: <https://youtu.be/kfDNm_bembs>
 
 #### Usage:
+
 Download the repository and open it up in your terminal. If you already have Python installed in your computer, cd into the folder and then type "python3 project.py" to run the project. If not, download Python via visiting <https://www.python.org/downloads/>
 
 #### Description:
+
 This is a chat robot which works in user's command line.
 
 It stores a variety of self care ideas, which are categorized in 8 different moods, in a file called data.py. Those moods are: happy, overwhelmed, stressed, anxious, sad, angry, tired, depressed, and excited. In data.py, there's also a list of movie stored.
