@@ -107,12 +107,11 @@ def main():
         self_care_idea = get_self_care_idea(mood)
         print("Bot: How about " + self_care_idea + "?")
 
-    print("Bot: Do you want me to recommend a movie/TV show for you?(Type yes or no)")
+    print("Bot: Do you want me to recommend a movie for you?(Type yes or no)")
     answer = input("You: ").lower()
     if "y" in answer:
-        print("Bot: Here is my movie suggestion for you...")
         movie = suggest_movie()
-        print("Bot: " + movie)
+        print("Bot: Here is my movie suggestion for you:" + movie)
         print("Bot: Hope you'll like the movie! Bye!")
     else:
         print("Bot: Ok, that's all I have for you today. See you!")
