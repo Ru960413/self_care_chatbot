@@ -3,7 +3,7 @@
 #### Video Demo: <URL HERE>
 
 #### Usage:
-Download the repository and open up your terminal, cd into the folder and then type "python3 project.py", if you already have Python installed in your computer. If not, download Python via <https://www.python.org/downloads/>
+Download the repository and open it up in your terminal. If you already have Python installed in your computer, cd into the folder and then type "python3 project.py" to run the project. If not, download Python via visiting <https://www.python.org/downloads/>
 
 #### Description:
 This is a chat robot which works in user's command line.
