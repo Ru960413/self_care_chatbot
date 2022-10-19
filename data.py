@@ -101,11 +101,9 @@ excited = [
 ]
 
 # add movies from csv
-# movie source:
-# https://www.imdb.com/list/ls021644352/
 movies = []
 
-with open("movies.csv") as file:
+with open("WATCHLIST.csv") as file:
     reader = csv.DictReader(file)
     for row in reader:
         movies.append(row["Title"])
