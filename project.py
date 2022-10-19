@@ -75,7 +75,7 @@ def get_self_care_idea(mood):
         
 # TODO: DONE
 def suggest_movie():
-    movie = movies[random.randint(0,47)]
+    movie = movies[random.randint(0,249)]
     return movie
 
 

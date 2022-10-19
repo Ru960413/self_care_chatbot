@@ -28,9 +28,9 @@ def test_get_self_care_idea():
         
 def test_suggest_movie():
     # patch the function so that it'd choose the 0th index of element form the movie list
-    with patch("random.randint", return_value=0) as mock_random:
+    with patch("random.randint", return_value=8) as mock_random:
         movie = suggest_movie()
-        assert movie == "Eternal Sunshine of the Spotless Mind"
+        assert movie == "The Lord of the Rings: The Fellowship of the Ring"
 
         
 
