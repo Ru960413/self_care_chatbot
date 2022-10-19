@@ -28,7 +28,7 @@ overwhelmed = [
 
 stressed = [
     "go for a long walk in nature",
-    "go to the beach and listen to the waves"
+    "go to the beach and listen to the waves",
     "watch the sunset",
     "sit and be still for 10 minutes",
     "do a full-body scan",
