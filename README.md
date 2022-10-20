@@ -27,10 +27,6 @@ Following the self care idea suggestion, chatbot asks the user if she/he wants a
 
 Lastly, test_project.py tests the functions implemented in project.py, using unittest module.
 
-## License
-
-This project is licensed under the MIT License.
-
 ## Acknowledgments:
 
 This project is inspired by all the lovely therapists who provide self care tips on instagram!
